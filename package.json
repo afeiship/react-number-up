@@ -1,0 +1,12 @@
+{
+  "name": "check-node-versions",
+  "version": "1.0.0",
+  "description": "Check & tip warnings for node/npm versions.",
+  "main": "index.js",
+  "repository": "git@github.com:afeiship/check-node-versions.git",
+  "author": "feizheng <1290657123@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "root-path": "afeiship/root-path"
+  }
+}

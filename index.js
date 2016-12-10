@@ -1,0 +1,3 @@
+var ROOT_PATH = require('root-path');
+
+//enjoy coding...
