@@ -1,0 +1,30 @@
+.react-number-up {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border: 1px solid red;
+  font-size: 12px;
+  //overflow: hidden;
+  ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+  }
+
+  ul {
+    border: 1px solid blue;
+    //overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transition: 0.3s;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
